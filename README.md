@@ -40,19 +40,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka-bhatti&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Tanishka-bhatti&theme=radical" alt="GitHub Streak" />
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-bhatti&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 
 ---
 
