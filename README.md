@@ -5,11 +5,8 @@
 ---
 
 ## 💫 About Me
-- 🌟 Passionate about building **modern, scalable, and visually stunning web apps**.
-- 🤖 Exploring the world of **Artificial Intelligence & Machine Learning**.
-- 🎯 My mission: Combine AI & web development to build impactful, real-world projects.
-- 🌱 Currently learning **Advanced ML concepts, Cloud & DevOps tools**.
-- ⚡ Fun fact: I believe **clean code = less coffee** (but I drink it anyway ☕).
+I like making projects cause it feels good when they complete and you get what you were looking for;
+Its a bit scared but thriving through it making the best out of it, is what i am trying to do.
 
 ---
 
