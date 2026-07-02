@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 I like making projects cause it feels good when they complete and you get what you were looking for;
-Its a bit scared but thriving through it making the best out of it, is what i am trying to do.
+Its a large domain but thriving through it and trying to  make the best out of it.
 
 ---
 
