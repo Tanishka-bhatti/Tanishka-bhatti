@@ -1,59 +1,121 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Tanishka Bhatti</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
+<div align="center">
 
----
+Hey, I'm Tanishka Bhatti 👋
 
-## 💫 About Me
-I like making projects cause it feels good when they complete and you get what you were looking for;
-Its a large domain but thriving through it and trying to  make the best out of it.
+CSE–AI @ IGDTUW · Software Engineering · Machine Learning · Competitive Programming
 
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+I enjoy turning difficult problems into clean, practical solutions—whether they live in code, data, or graphs.
 
 
----
-
-💬 *"The best way to predict the future is to create it."*
 
 
-<!--
-**Tanishka-bhatti/Tanishka-bhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+
+struct Tanishka {
+    string degree = "B.Tech in Computer Science & Engineering (AI)"; 
+    string university = "IGDTUW '28";
+    vector<string> interests = {
+        "Software Engineering", "Machine Learning",
+        "Graph Neural Networks", "Competitive Programming"
+    };
+    string currentGoal = "Build deeply, learn consistently, solve elegantly";
+};
+
+🎓 Third-year CSE–AI student at IGDTUW, building a strong foundation across software engineering and AI.
+
+🧠 Solved 600+ DSA problems and regularly participate in programming contests.
+
+🔬 Currently researching GNN-based software vulnerability detection through Darwin.
+
+💻 Experienced in building responsive web experiences and translating requirements into polished interfaces.
+
+🌱 Exploring the intersection of intelligent systems, graph learning, and real-world software.
+
+🤝 Open to collaborating on meaningful SDE, ML, and research projects.
+
+What I'm working on
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Darwin</h3>
+      <p>A research project exploring how Graph Neural Networks can represent source code as graphs and help identify software vulnerabilities.</p>
+      <sub><b>Focus:</b> GNNs · Software Security · Applied ML</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ DSA & Competitive Programming</h3>
+      <p>Strengthening problem-solving across graphs, dynamic programming, trees, greedy algorithms, backtracking, and advanced data structures.</p>
+      <sub><b>Practice:</b> LeetCode · Codeforces · Weekly Contests</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning</h3>
+      <p>Learning to move from data exploration and model building to thoughtful evaluation and practical, explainable solutions.</p>
+      <sub><b>Interests:</b> Recommender Systems · Graph Learning · Applied AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Engineering</h3>
+      <p>Creating responsive, accessible interfaces with careful attention to layout, usability, and clean implementation.</p>
+      <sub><b>Experience:</b> Frontend Development · UI Implementation</sub>
+    </td>
+  </tr>
+</table>
+
+Tech stack
+
+<div align="center">
+
+<h3>Languages & Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,html,css&theme=dark" alt="Languages and Frontend">
+
+<h3>Machine Learning & Data</h3>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-DB2777?style=for-the-badge">
+
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases">
+
+<h3>Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Development Tools">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
+
+</div>
+
+
+
+GitHub snapshot
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishka-bhatti&theme=github_dark" alt="Tanishka's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishka-bhatti&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Tanishka's GitHub streak" />
+
+</div>
+
+Beyond the commits
+
+📚 I like understanding the why behind an algorithm—not just memorising its implementation.
+
+🧩 My favourite problems are the ones that look chaotic until the right pattern makes everything click.
+
+🎯 Right now, I'm focused on becoming a stronger problem solver, researcher, and engineer—one consistent day at a time.
+
+<div align="center">
+
+Let's build something thoughtful.
+
+<sub>Thanks for stopping by ✦</sub>
+
+</div>
