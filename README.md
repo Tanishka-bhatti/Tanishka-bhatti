@@ -28,12 +28,6 @@ struct Tanishka {
 
 🧠 Solved 600+ DSA problems and regularly participate in programming contests.
 
-🔬 Currently researching GNN-based software vulnerability detection through Darwin.
-
-💻 Experienced in building responsive web experiences and translating requirements into polished interfaces.
-
-🌱 Exploring the intersection of intelligent systems, graph learning, and real-world software.
-
 🤝 Open to collaborating on meaningful SDE, ML, and research projects.
 
 What I'm working on
