@@ -26,7 +26,7 @@ struct Tanishka {
 
 🎓 Third-year CSE–AI student at IGDTUW, building a strong foundation across software engineering and AI.
 
-🧠 Solved 600+ DSA problems and regularly participate in programming contests.
+🧠 Solved 750+ DSA problems and regularly participate in programming contests.
 
 🤝 Open to collaborating on meaningful SDE, ML, and research projects.
 
